@@ -12,11 +12,11 @@ section '.data' data readable writeable
         b dd 27
         numb db 101b
         ;1.2
-        sum dd 0  ;сумма
-        dif dd 0  ;разность
-        pon dd 1  ;произведение
-        rem dd ?  ;остаток
-        quo dd ?  ;частное
+        sum dd 0  
+        dif dd 0  
+        pon dd 1 
+        rem dd ?  
+        quo dd ?  
 
         NULL = 0
 
